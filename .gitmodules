@@ -1,0 +1,3 @@
+[submodule "libcpp20/thirdparty/cppcoro"]
+	path = libcpp20/thirdparty/cppcoro
+	url = https://github.com/andreasbuhr/cppcoro
